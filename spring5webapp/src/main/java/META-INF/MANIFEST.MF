@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Class-Path: 
-
+Start-Class: guru.springframework.spring5webapp.Spring5webappApplication
+Main-Class: org.springframework.boot.loader.JarLauncher
